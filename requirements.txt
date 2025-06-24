@@ -4,6 +4,7 @@ langchain-core
 duckduckgo-search
 streamlit
 langchain-mistralai
+google-genai
 langchain-google-genai
 langchain-pinecone
 pinecone
