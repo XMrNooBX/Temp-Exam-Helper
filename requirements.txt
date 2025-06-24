@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+duckduckgo-search
+streamlit
+langchain-mistralai
+langchain-google-genai
+langchain-pinecone
+pinecone
+langchain-groq
+st-multimodal-chatinput
+streamlit-carousel
