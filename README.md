@@ -6,7 +6,7 @@
 
 > Padh le yaar... (Study hard, buddy!)
 
-### [**Hosted App**](https://good-boy.streamlit.app/)
+### [**Hosted App**](https://new-good-boy.streamlit.app/)
 
 **Bhala Manus** is your AI-powered study companion, meticulously crafted to help you conquer your computer science courses and banish the fear of backlogs. This powerful tool integrates cutting-edge language models, a robust vector database, and real-time web search to deliver comprehensive, digestible explanations that make learning a joyful experience.
 
